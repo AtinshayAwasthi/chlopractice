@@ -12,5 +12,6 @@ int main()
     {
         sum=sum+arr[i];
     }
+     cout<<"the sum is :"<<endl;
     cout<<sum;
 }  
